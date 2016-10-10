@@ -5,6 +5,7 @@
     [description] NTEXT           NOT NULL,
     [soldOut]     BIT             NOT NULL,
     [canPurchase] BIT             NOT NULL,
+    [salePrice] MONEY NULL, 
     CONSTRAINT [pk_Product] PRIMARY KEY CLUSTERED ([id] ASC)
 );
 
