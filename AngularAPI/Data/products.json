@@ -1,0 +1,89 @@
+﻿[  
+   {  
+      "name":"Dodecahedron",
+      "price":12.95,
+      "description":"Some gems have hidden qualities beyond their lustre, beyond their shine... Dodecahedron is one of those gems",
+      "canPurchase":true,
+      "soldOut":false,
+      "images":[  
+         {  
+            "full":"images/dodecahedron-02-full.jpg",
+            "thumb":"images/dodecahedron-02-full.jpg"
+         }
+      ],
+      "reviews":[  
+         {  
+            "stars":5,
+            "author":"josephj@codingtemple.com",
+            "body":"This is a great product"
+         },
+         {  
+            "stars":4,
+            "author":"ripalp@codingtemple.com",
+            "body":"I thought this was ok"
+         },
+         {  
+            "stars":1,
+            "author":"karanj@codingtemple.com",
+            "body":"Hated it!"
+         },
+         {  
+            "stars":3,
+            "author":"joe.wendell.johnson@gmail.com",
+            "body":"I thought this was fine."
+         }
+      ]
+   },
+   {  
+      "name":"Pentagonal",
+      "price":5.95,
+      "description":"The pentagonal gem is the newest addition to our store.  We think you will love it",
+      "canPurchase":true,
+      "soldOut":false,
+      "images":[  
+         {  
+            "full":"images/pentagonal-01-full.jpg",
+            "thumb":"images/pentagonal-01-full.jpg"
+         }
+      ]
+   },
+   {  
+      "name":"Pentagonal",
+      "description":"Pentagonal is a fantastic new gem!",
+      "price":110.50,
+      "canPurchase":true,
+      "soldOut":false,
+      "images":[  
+         {  
+            "full":"images/pentagonal-01-full.jpg",
+            "thumb":"images/pentagonal-01-full.jpg"
+         }
+      ]
+   },
+   {  
+      "name":"Pentagonal",
+      "description":"Origin of the Pentagonal is unknown, hence its low value. It has a very high shine and 12 sides, however.",
+      "price":22.90,
+      "canPurchase":true,
+      "soldOut":false,
+      "images":[  
+         {  
+            "full":"images/pentagonal-01-full.jpg",
+            "thumb":"images/pentagonal-01-full.jpg"
+         }
+      ]
+   },
+   {  
+      "name":"Pentagonal",
+      "description":"Pentagonal is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
+      "price":1100,
+      "canPurchase":true,
+      "soldOut":false,
+      "images":[  
+         {  
+            "full":"images/pentagonal-01-full.jpg",
+            "thumb":"images/pentagonal-01-full.jpg"
+         }
+      ]
+   }
+]
